@@ -1,0 +1,142 @@
+h1{
+    color:maroon;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+background-color: darkorange;
+    
+}
+h2{
+    color:maroon;
+    text-align: left;
+    text-decoration: underline;
+    text-transform: uppercase;
+
+}
+.background{
+background-image: url("the-lion-king.jpg");
+background-size: 1420px;
+background-repeat: no-repeat;
+background-attachment: fixed;
+height: 3524px;
+width: 2000px;
+}
+p{
+color: maroon;
+line-height: 2;
+font-weight: 500;
+text-indent: 100px;
+word-spacing: 1.5;
+text-align: left;
+position:absolute;
+right: 800px;
+top: 100px;
+left: 50px;
+font-style:italic;
+font-family: cursive;
+font-size: medium;
+font-weight: bolder;
+
+}
+.p1{
+    
+        color:maroon;
+        line-height: 2;
+        font-weight: 500;
+        text-indent: 100px;
+        word-spacing: 1.5;
+        text-align: right;
+        position:absolute;
+        right: 50px;
+        top: 650px;
+        left:800px;
+        font-style:italic;
+        font-family: cursive;
+        font-size: medium;
+        font-weight: bolder;
+        
+        }
+        h3{
+            color:yellow;
+            font-size: larger;
+    text-align: right;
+    text-decoration: underline overline;
+    text-transform: uppercase;
+    position:absolute;
+        right: 100px;
+        top: 600px;
+        left:800px;
+
+        }
+        h4{
+            color:maroon;
+    text-align: left;
+    text-decoration: underline overline;
+    text-transform: uppercase;
+    position: absolute;
+    left: 30px;
+    top: 2250px;
+    right: 800px;
+        }
+.p2{
+    color: maroon;
+line-height: 2;
+font-weight: 500;
+text-indent: 100px;
+word-spacing: 1.5;
+text-align: left;
+position:absolute;
+right: 800px;
+top: 2300px;
+left: 50px;
+font-style:italic;
+font-family: cursive;
+font-size: medium;
+font-weight: bolder;
+
+}
+h5{
+    color:yellow;
+    font-size: x-large;
+    text-align: right;
+    text-decoration: underline overline;
+    text-transform: uppercase;
+    position:absolute;
+        right: 100px;
+        top: 2800px;
+        left:800px;
+
+}
+.p3{
+    color: maroon;
+    line-height: 2;
+    font-weight: 500;
+    text-indent: 100px;
+    word-spacing: 1.5;
+    text-align: right;
+    position:absolute;
+    right: 50px;
+    top: 2850px;
+    left:800px;
+    font-style:italic;
+    font-family: cursive;
+    font-size: medium;
+    font-weight: bolder;
+}
+h6{
+    color:brown;
+    text-align: center;
+    text-decoration: underline;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-shadow:yellow;
+}
+footer{
+    color:brown;
+    background-color: goldenrod;
+    font-family: cursive;
+    text-align: center;
+}
+footer a{
+    color: maroon;
+}
